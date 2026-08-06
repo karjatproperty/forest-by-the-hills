@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://forest-by-the-hills.karjat.workers.dev/sitemap.xml
