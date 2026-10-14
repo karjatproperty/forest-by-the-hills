@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://forest-by-the-hills.karjat.workers.dev/</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://forest-by-the-hills.karjat.workers.dev/karjat-land-title-checks/</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://forest-by-the-hills.karjat.workers.dev/karjat-plot-prices/</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://forest-by-the-hills.karjat.workers.dev/karjat-connectivity/</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://forest-by-the-hills.karjat.workers.dev/gated-vs-standalone-plots-karjat/</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://forest-by-the-hills.karjat.workers.dev/karjat-buyer-questions/</loc>
+    <lastmod>2026-10-14</lastmod>
   </url>
 </urlset>
